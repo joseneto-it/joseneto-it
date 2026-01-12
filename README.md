@@ -1,16 +1,16 @@
-# Hi, I'm José Neto 👋
+# 👋 Hi, I’m José Neto
 
-I am an IT fundamentals student building a strong technical foundation for a future career in Cloud Engineering and Cloud Security.
+I’m an **IT Fundamentals Student** building a strong technical foundation for a future career in **Cloud Engineering** and **Cloud Security**.
 
-My focus is on understanding how systems, networks and infrastructure work before moving to large-scale cloud environments.
+I focus on understanding how systems, networks and infrastructure work before diving into cloud environments.
 
 ---
 
 ## 🧠 Currently Learning
-- Operating Systems fundamentals
+- Linux fundamentals
 - Networking fundamentals (IP, DNS)
-- Linux basics
-- Cloud and security concepts
+- Operating System internals
+- Cloud basics (AWS / Azure foundations)
 
 ---
 
@@ -19,29 +19,26 @@ My focus is on understanding how systems, networks and infrastructure work befor
 - Networking
 - Cloud Infrastructure
 - Cloud Security
-- Infrastructure as Code (future)
+- Infrastructure as Code (IaC)
 
 ---
 
-## 📁 Featured Project
-- **IT Fundamentals**  
-  Documentation of core IT concepts such as Operating Systems, Networking and DNS.  
-  👉 https://github.com/joseneto-it/it-fundamentals
+## 💼 Featured Projects
+Here are projects that represent my journey so far:
+
+📌 **[IT Fundamentals](https://github.com/joseneto-it/it-fundamentals)**  
+Documentation of core IT concepts such as Operating Systems, Networking and DNS.
 
 ---
 
-## 🎯 Goal
-Build secure, scalable and well-documented infrastructure with a strong focus on cloud security.
+## 📫 Contact & Links
+- GitHub: https://github.com/joseneto-it   
+- Email: jose.marciano1705@gmail.com
 
 ---
 
-## 🌍 Language
-- Portuguese (native)
-- English (technical reading and writing)
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/joseneto-it  
-- LinkedIn: (to be added)
+## 📌 What I’m Working On Next
+- Hands-on Linux labs  
+- Cloud fundamentals projects  
+- Networking simulations  
 
