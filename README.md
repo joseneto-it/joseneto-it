@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm José Neto 👋
 
-<!--
-**joseneto-it/joseneto-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT fundamentals student building a strong technical foundation for a future career in Cloud Engineering and Cloud Security.
 
-Here are some ideas to get you started:
+My focus is on understanding how systems, networks and infrastructure work before moving to large-scale cloud environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Currently Learning
+- Operating Systems fundamentals
+- Networking fundamentals (IP, DNS)
+- Linux basics
+- Cloud and security concepts
+
+---
+
+## 🛠️ Technical Interests
+- Linux
+- Networking
+- Cloud Infrastructure
+- Cloud Security
+- Infrastructure as Code (future)
+
+---
+
+## 📁 Featured Project
+- **IT Fundamentals**  
+  Documentation of core IT concepts such as Operating Systems, Networking and DNS.  
+  👉 https://github.com/joseneto-it/it-fundamentals
+
+---
+
+## 🎯 Goal
+Build secure, scalable and well-documented infrastructure with a strong focus on cloud security.
+
+---
+
+## 🌍 Language
+- Portuguese (native)
+- English (technical reading and writing)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/joseneto-it  
+- LinkedIn: (to be added)
+
