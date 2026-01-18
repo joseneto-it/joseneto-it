@@ -1,44 +1,51 @@
-# 👋 Hi, I’m José Neto
+# José Neto — Cloud Security & Infrastructure (Foundations)
 
-I’m an **IT Fundamentals Student** building a strong technical foundation for a future career in **Cloud Engineering** and **Cloud Security**.
+I am building a strong foundation in **IT fundamentals, networking, operating systems, and cloud security**, with a focus on understanding **how systems work and how to secure them correctly**.
 
-I focus on understanding how systems, networks and infrastructure work before diving into cloud environments.
-
----
-
-## 🧠 Currently Learning
-- Linux fundamentals
-- Networking fundamentals (IP, DNS)
-- Operating System internals
-- Cloud basics (AWS / Azure foundations)
+This GitHub profile documents my learning journey in a structured and practical way, emphasizing **fundamental concepts, security-aware thinking, and clear technical documentation** rather than premature tool usage.
 
 ---
 
-## 🛠️ Technical Interests
-- Linux
-- Networking
-- Cloud Infrastructure
-- Cloud Security
-- Infrastructure as Code (IaC)
+## 📚 What this profile contains
+
+### 🖧 Networking Fundamentals
+Documentation covering core networking concepts and their relevance to cloud security, including:
+- IP addressing, CIDR, and subnetting
+- Network ports and transport protocols (TCP/UDP)
+- Application layer protocols and security implications
+- NAT, firewalls, traffic control, and defense-in-depth
+- Visual network diagrams to represent real-world cloud architectures
+
+### 💻 Operating Systems Fundamentals
+Foundational knowledge focused on how operating systems support secure cloud environments:
+- What an operating system is and its responsibilities
+- Program vs process concepts
+- System boot process
+- Basic resource management principles
 
 ---
 
-## 💼 Featured Projects
-Here are projects that represent my journey so far:
+## 🧠 Learning approach
 
-📌 **[IT Fundamentals](https://github.com/joseneto-it/it-fundamentals)**  
-Documentation of core IT concepts such as Operating Systems, Networking and DNS.
+- Fundamentals before tools  
+- Security-first mindset  
+- Clear mental models over memorization  
+- Documentation as proof of understanding  
+- Progressive learning: theory → architecture → practice  
 
----
-
-## 📫 Contact & Links
-- GitHub: https://github.com/joseneto-it   
-- Email: jose.marciano1705@gmail.com
+This profile intentionally reflects **foundational and entry-level knowledge**, aligned with a junior path toward Cloud Security and Infrastructure roles.
 
 ---
 
-## 📌 What I’m Working On Next
-- Hands-on Linux labs  
-- Cloud fundamentals projects  
-- Networking simulations  
+## 🎯 Current focus
+- Strengthening Linux fundamentals for cloud environments  
+- Preparing for cloud platform studies (AWS / Azure)  
+- Building a solid base for identity, access, and network security concepts  
 
+---
+
+## 🚀 Goal
+
+To grow into a **Cloud Security Engineer** with a strong understanding of the underlying systems, networks, and security principles that support secure cloud architectures.
+
+This repository represents **real progress, realistic scope, and continuous learning**.
